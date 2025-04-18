@@ -1,7 +1,7 @@
 {
   "name": "@googlemaps/react-native-navigation-sdk-alta",
   "version": "0.9.3",
-  "author": "Google",
+  "author": "Levon",
   "description": "A React Native library for Navigation SDK on Google Maps Platform",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
