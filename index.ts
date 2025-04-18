@@ -1,1 +1,1 @@
-export { default as NavigationSDK } from "./src/NavigationSDK";
+export * from "./src";
