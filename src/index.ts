@@ -18,4 +18,3 @@ export * from './auto';
 export * from './maps';
 export * from './navigation';
 export * from './shared';
-export * from "./src";
